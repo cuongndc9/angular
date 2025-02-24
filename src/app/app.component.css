@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+  height: 100vh;
+}
+
+.light-theme {
+  background-color: white;
+}
+
+.dark-theme {
+  background-color: gray;
+}
+
+h1 {
+  color: lightblue;
+  font-family: 'Dank Mono', 'Courier New', Courier, monospace;
+  font-style: italic;
+  font-weight: 300;
+  margin: 50px;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: tomato;
+  color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  margin-bottom: 50px;
+}
